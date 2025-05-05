@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid__PBR_Diffuse.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid__PBR_Metalness.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid__PBR_Roughness.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/M_GumboidSkin.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_B1_PBR_Diffuse.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_B1_PBR_Roughness.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_B1_PBR_Metalness.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_Skin.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_PhysicsAsset.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid_Skeleton.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Blueprints/BP_Bullet.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Blueprints/BP_BulletSpawn.uasset",
+				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset"
 			]
 		}
 	]
