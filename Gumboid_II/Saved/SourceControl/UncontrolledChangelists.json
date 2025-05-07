@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/micro/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/micro/Documents/GitHub/Gumboid-II/Gumboid_II/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/micro/Documents/GitHub/Gumboid-II/Gumboid_II/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
 				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid__PBR_Diffuse.uasset",
 				"C:/Users/150077246/Documents/GitHub/Gumboid-II/Gumboid_II/Content/Characters/Gumboid/Gumboid__PBR_Metalness.uasset",
